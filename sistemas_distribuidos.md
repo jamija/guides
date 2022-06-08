@@ -16,3 +16,5 @@ servidor: -es su propio-> sistema distribuido
     K -gestiona-> el escalado dinamicos X,Y de los nodos del sistema
 
 sistemas centralizados -evolucionan a-> sistemas distribuidos para gestionar escalado
+
+WIP
